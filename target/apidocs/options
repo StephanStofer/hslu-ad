@@ -1,0 +1,24 @@
+-classpath
+'/Users/stofers/.m2/repository/org/apache/logging/log4j/log4j-api/2.11.1/log4j-api-2.11.1.jar'
+-encoding
+'UTF-8'
+-overview
+'/Users/stofers/Dropbox/__Studium__/BScI/AD/ad_excercises/src/main/javadoc/overview.html'
+-package
+-sourcepath
+'/Users/stofers/Dropbox/__Studium__/BScI/AD/ad_excercises/src/main/java:/Users/stofers/Dropbox/__Studium__/BScI/AD/ad_excercises/target/generated-sources/annotations:/Users/stofers/Dropbox/__Studium__/BScI/AD/ad_excercises/src/main/javadoc'
+-author
+-bottom
+'Copyright &#169; 2019 <a href="http://www.hslu.ch/informatik/">Hochschule Luzern - Informatik</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/stofers/Dropbox/__Studium__/BScI/AD/ad_excercises/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'oop_maven_template 1.0.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'oop_maven_template 1.0.0-SNAPSHOT API'
